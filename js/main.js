@@ -50,4 +50,4 @@ if(document.querySelector('.faq-accordion')){
   
 };
 
-AOS.init() 
+AOS.init();
